@@ -158,6 +158,6 @@ int getPortForHost(const char name[]){
     }
     return 0;
 }
-void task4(){
-    int numberOfHostsOnPorts[] = {}
-}
+//void task4(){
+  //  int numberOfHostsOnPorts[] = {}
+//}
